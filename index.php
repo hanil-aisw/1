@@ -151,13 +151,14 @@
 
     // 🔴 중요: 여기에 본인의 Firebase 프로젝트 설정값을 입력하셔야 합니다.
     const firebaseConfig = {
-        apiKey: "YOUR_API_KEY",
-        authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-        projectId: "YOUR_PROJECT_ID",
-        storageBucket: "YOUR_PROJECT_ID.appspot.com",
-        messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-        appId: "YOUR_APP_ID"
-    };
+  apiKey: "AIzaSyCu4vJkXNHD6fxcOxAVmMrsTQSMWG8VOIM",
+  authDomain: "todo-b0595.firebaseapp.com",
+  projectId: "todo-b0595",
+  storageBucket: "todo-b0595.firebasestorage.app",
+  messagingSenderId: "981458118531",
+  appId: "1:981458118531:web:8b367d8ac72099b1bab8b6",
+  measurementId: "G-X40QPWBLNL"
+};
 
     // Firebase 초기화
     const app = initializeApp(firebaseConfig);
