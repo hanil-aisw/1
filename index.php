@@ -156,8 +156,7 @@
   projectId: "todo-b0595",
   storageBucket: "todo-b0595.firebasestorage.app",
   messagingSenderId: "981458118531",
-  appId: "1:981458118531:web:8b367d8ac72099b1bab8b6",
-  measurementId: "G-X40QPWBLNL"
+  appId: "1:981458118531:web:8b367d8ac72099b1bab8b6"
 };
 
     // Firebase 초기화
